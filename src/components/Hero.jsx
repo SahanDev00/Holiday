@@ -10,7 +10,7 @@ const Hero = () => {
                     <p>All Inclusive</p>
                     <h1 className='font-bold text-5xl md:text-7xl drop-shadow-2xl'>Private Beaches & Gateways</h1>
                     <p className='max-w-[600px] drop-shadow-2xl py-2 text-xl '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni vel illum laudantium excepturi exercitationem minus aspernatur? Ratione minima omnis ipsum.</p>
-                    <button className='bg-white text-black'>Reserve Now</button>
+                    <button className='bg-blue-400 text-black font-semibold hover:scale-105 duration-300'>Reserve Now</button>
                 </div>
             </div>
         </div>
